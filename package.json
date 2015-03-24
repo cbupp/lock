@@ -1,10 +1,10 @@
 {
-  "name": "lock",
+  "name": "lock-with-setImmediateFix",
   "version": "0.1.1",
-  "homepage": "https://github.com/dominictarr/lock",
+  "homepage": "https://github.com/cbupp/lock",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/lock.git"
+    "url": "git://github.com/cbupp/lock.git"
   },
   "dependencies": {},
   "devDependencies": {
