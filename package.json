@@ -1,5 +1,5 @@
 {
-  "name": "lock-with-setImmediateFix",
+  "name": "lock-with-setImmediate-fix",
   "version": "0.1.1",
   "homepage": "https://github.com/cbupp/lock",
   "repository": {
